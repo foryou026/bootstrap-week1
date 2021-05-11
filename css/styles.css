@@ -1,0 +1,42 @@
+/* div {
+    padding: 5px;
+} */
+
+
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge #ddd;
+    min-height: 400px;
+}
+
+
+.jumbotron {
+    background-color: rgb(195, 150, 212);
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    color: floralwhite;
+}
+
+.footer {
+    background-color: rgb(231, 207, 240);
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    /* padding: 10px; */
+    color: #0f0f0f;
+}
+
+.underlinelink a {
+    text-decoration: underline;
+}
